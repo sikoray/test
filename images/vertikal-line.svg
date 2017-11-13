@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17" height="100" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <title>vertikal-line</title>
+ <g>
+  <title>Layer 1</title>
+  <line stroke-width="1" fill-opacity="0" y2="83.999998" x2="5" y1="6.00001" x1="3" fill="none" id="svg_2" stroke="#da7074"/>
+  <line fill-opacity="0" y2="202.999991" x2="615.5" y1="125.000002" x1="613.5" fill="none" stroke="#da7074" id="svg_1"/>
+  <line stroke-width="1" fill-opacity="0" y2="95.999992" x2="13" y1="18.000004" x1="11" fill="none" stroke="#da7074" id="svg_3"/>
+ </g>
+</svg>
